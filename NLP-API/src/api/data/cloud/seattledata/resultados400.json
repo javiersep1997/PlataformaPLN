@@ -1,0 +1,4542 @@
+[
+  {
+    "entities": [
+      {
+        "mentions": 3,
+        "name": "Leslie",
+        "type": "PERSON",
+        "salience": 0.41566890478134155,
+        "sentiment": {
+          "magnitude": 5,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.1973324865102768,
+        "sentiment": {
+          "magnitude": 1.5,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "stay",
+        "type": "EVENT",
+        "salience": 0.12776044011116028,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "addition",
+        "type": "OTHER",
+        "salience": 0.018962891772389412,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "cats",
+        "type": "OTHER",
+        "salience": 0.018505863845348358,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "location",
+        "type": "LOCATION",
+        "salience": 0.014495350420475006,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "house",
+        "type": "LOCATION",
+        "salience": 0.01293887197971344,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "downtown",
+        "type": "LOCATION",
+        "salience": 0.01293887197971344,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "bars",
+        "type": "OTHER",
+        "salience": 0.01047892402857542,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Cap Hill",
+        "type": "PERSON",
+        "salience": 0.008588980883359909,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Thanks",
+        "type": "OTHER",
+        "salience": 0.006224153097718954,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "everything",
+        "type": "OTHER",
+        "salience": 0.006224153097718954,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "fares",
+        "type": "OTHER",
+        "salience": 0.005689994897693396,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "help",
+        "type": "OTHER",
+        "salience": 0.003924887161701918,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "home",
+        "type": "LOCATION",
+        "salience": 0.7351207137107849,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "hosts",
+        "type": "PERSON",
+        "salience": 0.13289277255535126,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "location",
+        "type": "LOCATION",
+        "salience": 0.13198649883270264,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 2,
+        "name": "space",
+        "type": "LOCATION",
+        "salience": 0.23414626717567444,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.22460322082042694,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "Jean",
+        "type": "PERSON",
+        "salience": 0.1313117891550064,
+        "sentiment": {
+          "magnitude": 1.5,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "linens",
+        "type": "CONSUMER_GOOD",
+        "salience": 0.07169844210147858,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "everything",
+        "type": "OTHER",
+        "salience": 0.048810288310050964,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "cookies",
+        "type": "OTHER",
+        "salience": 0.048810288310050964,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "stay",
+        "type": "EVENT",
+        "salience": 0.0235148835927248,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "people",
+        "type": "PERSON",
+        "salience": 0.023484565317630768,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "Host",
+        "type": "PERSON",
+        "salience": 0.34523141384124756,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "room",
+        "type": "LOCATION",
+        "salience": 0.311018705368042,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Leslie",
+        "type": "PERSON",
+        "salience": 0.1380697339773178,
+        "sentiment": {
+          "magnitude": 1.7000000476837158,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "notice",
+        "type": "OTHER",
+        "salience": 0.08883915841579437,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "chance",
+        "type": "OTHER",
+        "salience": 0.056037433445453644,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Thanks",
+        "type": "OTHER",
+        "salience": 0.02134493738412857,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "apartment",
+        "type": "LOCATION",
+        "salience": 0.02134493738412857,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.018113665282726288,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "rental",
+        "type": "OTHER",
+        "salience": 0.2472030371427536,
+        "sentiment": {
+          "magnitude": 0.30000001192092896,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "apartment",
+        "type": "LOCATION",
+        "salience": 0.19740839302539825,
+        "sentiment": {
+          "magnitude": 1,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "hosts",
+        "type": "PERSON",
+        "salience": 0.11407672613859177,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "cats",
+        "type": "OTHER",
+        "salience": 0.07151903957128525,
+        "sentiment": {
+          "magnitude": 1.600000023841858,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seahawks",
+        "type": "ORGANIZATION",
+        "salience": 0.056265898048877716,
+        "sentiment": {
+          "magnitude": 0.30000001192092896,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "fault",
+        "type": "OTHER",
+        "salience": 0.04154975712299347,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "lobby",
+        "type": "LOCATION",
+        "salience": 0.035033345222473145,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "smell",
+        "type": "OTHER",
+        "salience": 0.03256041929125786,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "owners",
+        "type": "PERSON",
+        "salience": 0.029893210157752037,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "notice",
+        "type": "OTHER",
+        "salience": 0.01568327285349369,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "family",
+        "type": "PERSON",
+        "salience": 0.01568327285349369,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "amenities",
+        "type": "OTHER",
+        "salience": 0.004385305568575859,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "hotel",
+        "type": "LOCATION",
+        "salience": 0.34809765219688416,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": -0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Leslie",
+        "type": "PERSON",
+        "salience": 0.21423141658306122,
+        "sentiment": {
+          "magnitude": 1.7999999523162842,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "space",
+        "type": "LOCATION",
+        "salience": 0.1526884287595749,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": -0.20000000298023224
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "anything",
+        "type": "OTHER",
+        "salience": 0.07340198755264282,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "apartment",
+        "type": "LOCATION",
+        "salience": 0.05688090622425079,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "everything",
+        "type": "OTHER",
+        "salience": 0.0466577522456646,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "closet",
+        "type": "OTHER",
+        "salience": 0.03514896705746651,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Thanks",
+        "type": "OTHER",
+        "salience": 0.024552563205361366,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "fridge",
+        "type": "CONSUMER_GOOD",
+        "salience": 0.015472863800823689,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "beer",
+        "type": "CONSUMER_GOOD",
+        "salience": 0.015472863800823689,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "bathroom",
+        "type": "LOCATION",
+        "salience": 0.3321805000305176,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Room",
+        "type": "LOCATION",
+        "salience": 0.17739218473434448,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Kitchen",
+        "type": "LOCATION",
+        "salience": 0.1688777208328247,
+        "sentiment": {
+          "magnitude": 0.30000001192092896,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "room",
+        "type": "LOCATION",
+        "salience": 0.0771314799785614,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "case",
+        "type": "OTHER",
+        "salience": 0.06578989326953888,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "response",
+        "type": "OTHER",
+        "salience": 0.05043262988328934,
+        "sentiment": {
+          "magnitude": 0.4000000059604645,
+          "score": 0.4000000059604645
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "stay",
+        "type": "OTHER",
+        "salience": 0.047879114747047424,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "issues",
+        "type": "OTHER",
+        "salience": 0.044673897325992584,
+        "sentiment": {
+          "magnitude": 0.30000001192092896,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "pics",
+        "type": "WORK_OF_ART",
+        "salience": 0.02189488336443901,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "thing",
+        "type": "OTHER",
+        "salience": 0.013747701421380043,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "Location",
+        "type": "LOCATION",
+        "salience": 0.38543859124183655,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "price",
+        "type": "OTHER",
+        "salience": 0.15127034485340118,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "allergy",
+        "type": "OTHER",
+        "salience": 0.10675713419914246,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": -0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "friends",
+        "type": "PERSON",
+        "salience": 0.10351869463920593,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": -0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "cats",
+        "type": "OTHER",
+        "salience": 0.04576333612203598,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": -0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "house",
+        "type": "LOCATION",
+        "salience": 0.031694117933511734,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": -0.10000000149011612
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "房间的描述与实际相符",
+        "type": "PERSON",
+        "salience": 0.3862358331680298,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "干净且安静",
+        "type": "PERSON",
+        "salience": 0.11077996343374252,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "非常完美",
+        "type": "OTHER",
+        "salience": 0.10947588086128235,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "早餐也比较丰盛",
+        "type": "ORGANIZATION",
+        "salience": 0.10195571929216385,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "下次会再次光临",
+        "type": "PERSON",
+        "salience": 0.054657094180583954,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 2,
+        "name": "space",
+        "type": "LOCATION",
+        "salience": 0.29321378469467163,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "host",
+        "type": "PERSON",
+        "salience": 0.24660812318325043,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "rooms",
+        "type": "LOCATION",
+        "salience": 0.12387353181838989,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.09069907665252686,
+        "sentiment": {
+          "magnitude": 1.600000023841858,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "comfort",
+        "type": "OTHER",
+        "salience": 0.032633982598781586,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Temps",
+        "type": "OTHER",
+        "salience": 0.03247327357530594,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "window",
+        "type": "OTHER",
+        "salience": 0.03018461912870407,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "entrance",
+        "type": "EVENT",
+        "salience": 0.025668812915682793,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.019273335114121437,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "booking",
+        "type": "EVENT",
+        "salience": 0.014056757092475891,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "unit",
+        "type": "OTHER",
+        "salience": 0.012823658995330334,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 2,
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.41362354159355164,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.20314912497997284,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "loft",
+        "type": "OTHER",
+        "salience": 0.1873902678489685,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "blocks",
+        "type": "OTHER",
+        "salience": 0.030632657930254936,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "house",
+        "type": "LOCATION",
+        "salience": 0.030632657930254936,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.026383331045508385,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "market",
+        "type": "OTHER",
+        "salience": 0.015248979441821575,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.7837758660316467,
+        "sentiment": {
+          "magnitude": 1.7000000476837158,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.19619199633598328,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "guest",
+        "type": "PERSON",
+        "salience": 0.5116714239120483,
+        "sentiment": {
+          "magnitude": 4.099999904632568,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.24500423669815063,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "couple",
+        "type": "PERSON",
+        "salience": 0.08296830952167511,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "ride",
+        "type": "EVENT",
+        "salience": 0.032778311520814896,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.012962606735527515,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "trail",
+        "type": "LOCATION",
+        "salience": 0.010033003985881805,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "bike",
+        "type": "CONSUMER_GOOD",
+        "salience": 0.010033003985881805,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "home",
+        "type": "LOCATION",
+        "salience": 0.00998343899846077,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "anyone",
+        "type": "PERSON",
+        "salience": 0.005263748113065958,
+        "sentiment": {
+          "magnitude": 0.30000001192092896,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "privacy",
+        "type": "OTHER",
+        "salience": 0.0032329007517546415,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 2,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.9058223366737366,
+        "sentiment": {
+          "magnitude": 1.7999999523162842,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.022521942853927612,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "loft",
+        "type": "OTHER",
+        "salience": 0.3505396842956543,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.19162286818027496,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "light",
+        "type": "OTHER",
+        "salience": 0.06092175468802452,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "bathroom",
+        "type": "LOCATION",
+        "salience": 0.04314194247126579,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "assortment",
+        "type": "OTHER",
+        "salience": 0.041594117879867554,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "dishes",
+        "type": "OTHER",
+        "salience": 0.041594117879867554,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "snacks",
+        "type": "OTHER",
+        "salience": 0.041594117879867554,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Apple",
+        "type": "ORGANIZATION",
+        "salience": 0.02438173070549965,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "time",
+        "type": "OTHER",
+        "salience": 0.2474280148744583,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "street",
+        "type": "LOCATION",
+        "salience": 0.15601378679275513,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 3,
+        "name": "Sean",
+        "type": "PERSON",
+        "salience": 0.10547243058681488,
+        "sentiment": {
+          "magnitude": 2.299999952316284,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seamus",
+        "type": "PERSON",
+        "salience": 0.0729849636554718,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "house",
+        "type": "LOCATION",
+        "salience": 0.052792638540267944,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "part",
+        "type": "OTHER",
+        "salience": 0.04673874378204346,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "much",
+        "type": "OTHER",
+        "salience": 0.04087067395448685,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Carla",
+        "type": "PERSON",
+        "salience": 0.0326705127954483,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "ferry",
+        "type": "OTHER",
+        "salience": 0.03189821541309357,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "walking",
+        "type": "OTHER",
+        "salience": 0.029280411079525948,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "dinner",
+        "type": "EVENT",
+        "salience": 0.029280411079525948,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.027728665620088577,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "advice",
+        "type": "OTHER",
+        "salience": 0.021941419690847397,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Portland",
+        "type": "LOCATION",
+        "salience": 0.018733806908130646,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "coffee",
+        "type": "OTHER",
+        "salience": 0.015348254702985287,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "kitchen",
+        "type": "LOCATION",
+        "salience": 0.015348254702985287,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "park",
+        "type": "LOCATION",
+        "salience": 0.014204693958163261,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "fount",
+        "type": "OTHER",
+        "salience": 0.009679281152784824,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 2,
+        "name": "Airbnb",
+        "type": "OTHER",
+        "salience": 0.30018413066864014,
+        "sentiment": {
+          "magnitude": 1.5,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 3,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.2826491594314575,
+        "sentiment": {
+          "magnitude": 5.099999904632568,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "host",
+        "type": "PERSON",
+        "salience": 0.05748126655817032,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 3,
+        "name": "experience",
+        "type": "OTHER",
+        "salience": 0.05639832466840744,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "addition",
+        "type": "OTHER",
+        "salience": 0.04511088505387306,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "stone",
+        "type": "OTHER",
+        "salience": 0.02308066375553608,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "designer",
+        "type": "PERSON",
+        "salience": 0.01720188744366169,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "space",
+        "type": "LOCATION",
+        "salience": 0.015758756548166275,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "bathroom",
+        "type": "LOCATION",
+        "salience": 0.011640725657343864,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "skylight",
+        "type": "OTHER",
+        "salience": 0.011640725657343864,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "renovation",
+        "type": "OTHER",
+        "salience": 0.011621665209531784,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "treats",
+        "type": "OTHER",
+        "salience": 0.011546319350600243,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "directions",
+        "type": "OTHER",
+        "salience": 0.011546319350600243,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "questions",
+        "type": "OTHER",
+        "salience": 0.011546319350600243,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "opinion",
+        "type": "OTHER",
+        "salience": 0.010664834640920162,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "shopping",
+        "type": "OTHER",
+        "salience": 0.010649425908923149,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "walk",
+        "type": "EVENT",
+        "salience": 0.008000441826879978,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "touch",
+        "type": "OTHER",
+        "salience": 0.007992577739059925,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.006299476604908705,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "energy",
+        "type": "OTHER",
+        "salience": 0.005596030969172716,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Thanks",
+        "type": "OTHER",
+        "salience": 0.005590933840721846,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "access",
+        "type": "OTHER",
+        "salience": 0.004505106247961521,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Parking",
+        "type": "OTHER",
+        "salience": 0.003978486638516188,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Bellevue",
+        "type": "LOCATION",
+        "salience": 0.0020817117765545845,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Kirkland",
+        "type": "LOCATION",
+        "salience": 0.0020817117765545845,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 2,
+        "name": "loft",
+        "type": "OTHER",
+        "salience": 0.3402608335018158,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 3,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.3100992441177368,
+        "sentiment": {
+          "magnitude": 2.299999952316284,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "stay",
+        "type": "EVENT",
+        "salience": 0.12319280952215195,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.06522636860609055,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "arrival",
+        "type": "EVENT",
+        "salience": 0.05315394699573517,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "bookings",
+        "type": "OTHER",
+        "salience": 0.017558781430125237,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "rental",
+        "type": "OTHER",
+        "salience": 0.34317490458488464,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "town",
+        "type": "LOCATION",
+        "salience": 0.0672554075717926,
+        "sentiment": {
+          "magnitude": 0.4000000059604645,
+          "score": 0.4000000059604645
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "supplies",
+        "type": "CONSUMER_GOOD",
+        "salience": 0.049365997314453125,
+        "sentiment": {
+          "magnitude": 1.5,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "access",
+        "type": "OTHER",
+        "salience": 0.047358494251966476,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.04561498388648033,
+        "sentiment": {
+          "magnitude": 0.4000000059604645,
+          "score": 0.4000000059604645
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "stay",
+        "type": "EVENT",
+        "salience": 0.0309103075414896,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "entrance",
+        "type": "LOCATION",
+        "salience": 0.013943463563919067,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.013155966065824032,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 2,
+        "name": "Sean",
+        "type": "PERSON",
+        "salience": 0.30873918533325195,
+        "sentiment": {
+          "magnitude": 2.5,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.13346165418624878,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "airbnb",
+        "type": "LOCATION",
+        "salience": 0.13346165418624878,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "Seamus",
+        "type": "OTHER",
+        "salience": 0.04348963871598244,
+        "sentiment": {
+          "magnitude": 1.7000000476837158,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "house",
+        "type": "LOCATION",
+        "salience": 0.023344937711954117,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "room",
+        "type": "LOCATION",
+        "salience": 0.01881904900074005,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "work",
+        "type": "OTHER",
+        "salience": 0.017210135236382484,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "airport",
+        "type": "LOCATION",
+        "salience": 0.0171496644616127,
+        "sentiment": {
+          "magnitude": 0.30000001192092896,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "water",
+        "type": "LOCATION",
+        "salience": 0.015741610899567604,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "area",
+        "type": "LOCATION",
+        "salience": 0.015741610899567604,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "space",
+        "type": "LOCATION",
+        "salience": 0.015698667615652084,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "breakfast",
+        "type": "OTHER",
+        "salience": 0.011794744059443474,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Karla",
+        "type": "PERSON",
+        "salience": 0.010069984011352062,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": -0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "friends",
+        "type": "PERSON",
+        "salience": 0.008227153681218624,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "amenities",
+        "type": "OTHER",
+        "salience": 0.005054894834756851,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "Sean",
+        "type": "PERSON",
+        "salience": 0.3158216178417206,
+        "sentiment": {
+          "magnitude": 1.399999976158142,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "experience",
+        "type": "OTHER",
+        "salience": 0.10124849528074265,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "airbnb",
+        "type": "OTHER",
+        "salience": 0.10124849528074265,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "house",
+        "type": "LOCATION",
+        "salience": 0.0395490787923336,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "family",
+        "type": "PERSON",
+        "salience": 0.0395490787923336,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "room",
+        "type": "LOCATION",
+        "salience": 0.014754658564925194,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "dinner",
+        "type": "OTHER",
+        "salience": 0.012961557134985924,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "park",
+        "type": "LOCATION",
+        "salience": 0.010056406259536743,
+        "sentiment": {
+          "magnitude": 1.399999976158142,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "water",
+        "type": "OTHER",
+        "salience": 0.008984879590570927,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "walk",
+        "type": "EVENT",
+        "salience": 0.008767222054302692,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "stay",
+        "type": "EVENT",
+        "salience": 0.006280664820224047,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "street",
+        "type": "LOCATION",
+        "salience": 0.003946557641029358,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "location",
+        "type": "LOCATION",
+        "salience": 0.34269049763679504,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "hosts",
+        "type": "PERSON",
+        "salience": 0.34269049763679504,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "alot",
+        "type": "OTHER",
+        "salience": 0.08625282347202301,
+        "sentiment": {
+          "magnitude": 1.2999999523162842,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "stay",
+        "type": "EVENT",
+        "salience": 0.0477898046374321,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "house",
+        "type": "LOCATION",
+        "salience": 0.03321731090545654,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seattlle",
+        "type": "OTHER",
+        "salience": 0.02612164244055748,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Thanks",
+        "type": "OTHER",
+        "salience": 0.023248767480254173,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 2,
+        "name": "Leslie",
+        "type": "PERSON",
+        "salience": 0.8941640257835388,
+        "sentiment": {
+          "magnitude": 3,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "needs",
+        "type": "OTHER",
+        "salience": 0.030472123995423317,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "home",
+        "type": "LOCATION",
+        "salience": 0.030105002224445343,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "parking",
+        "type": "OTHER",
+        "salience": 0.023941995576024055,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "airport",
+        "type": "LOCATION",
+        "salience": 0.19417348504066467,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.17407922446727753,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Sean",
+        "type": "PERSON",
+        "salience": 0.1170559898018837,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 3,
+        "name": "place",
+        "type": "LOCATION",
+        "salience": 0.04565507546067238,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "room",
+        "type": "LOCATION",
+        "salience": 0.04167899116873741,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 3,
+        "name": "house",
+        "type": "LOCATION",
+        "salience": 0.028393330052495003,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "speck",
+        "type": "OTHER",
+        "salience": 0.028117338195443153,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "dirt",
+        "type": "OTHER",
+        "salience": 0.024879179894924164,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "dust",
+        "type": "OTHER",
+        "salience": 0.024879179894924164,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "anywhere",
+        "type": "LOCATION",
+        "salience": 0.024879179894924164,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "sleep",
+        "type": "OTHER",
+        "salience": 0.022773386910557747,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Karla",
+        "type": "PERSON",
+        "salience": 0.021732229739427567,
+        "sentiment": {
+          "magnitude": 0.30000001192092896,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "ferry",
+        "type": "OTHER",
+        "salience": 0.017108475789427757,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "side",
+        "type": "OTHER",
+        "salience": 0.01198495365679264,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "area",
+        "type": "LOCATION",
+        "salience": 0.01198495365679264,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Southworth",
+        "type": "PERSON",
+        "salience": 0.010124048218131065,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "towels",
+        "type": "CONSUMER_GOOD",
+        "salience": 0.007527743000537157,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Everything",
+        "type": "OTHER",
+        "salience": 0.007344895042479038,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "stay",
+        "type": "EVENT",
+        "salience": 0.39117565751075745,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Sean",
+        "type": "PERSON",
+        "salience": 0.16506224870681763,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.4000000059604645
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "bathroom",
+        "type": "LOCATION",
+        "salience": 0.13296988606452942,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "bedroom",
+        "type": "LOCATION",
+        "salience": 0.1298121064901352,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "family",
+        "type": "PERSON",
+        "salience": 0.12311220169067383,
+        "sentiment": {
+          "magnitude": 0.4000000059604645,
+          "score": 0.4000000059604645
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "space",
+        "type": "LOCATION",
+        "salience": 0.48997047543525696,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.42711347341537476,
+        "sentiment": {
+          "magnitude": 1.7000000476837158,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "distance",
+        "type": "OTHER",
+        "salience": 0.06203464791178703,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "market",
+        "type": "OTHER",
+        "salience": 0.020881416276097298,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "Sean",
+        "type": "PERSON",
+        "salience": 0.24506977200508118,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Karla",
+        "type": "PERSON",
+        "salience": 0.24506977200508118,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "home",
+        "type": "LOCATION",
+        "salience": 0.18187159299850464,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "friends",
+        "type": "PERSON",
+        "salience": 0.1450989991426468,
+        "sentiment": {
+          "magnitude": 2.4000000953674316,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "room",
+        "type": "LOCATION",
+        "salience": 0.06501013785600662,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.015571057796478271,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 2,
+        "name": "home",
+        "type": "LOCATION",
+        "salience": 0.3036127984523773,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "everything",
+        "type": "OTHER",
+        "salience": 0.3036127984523773,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "hosts",
+        "type": "PERSON",
+        "salience": 0.2704578638076782,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "mine",
+        "type": "LOCATION",
+        "salience": 0.024305548518896103,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "room",
+        "type": "LOCATION",
+        "salience": 0.01118658110499382,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "house",
+        "type": "LOCATION",
+        "salience": 0.3274293839931488,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "drawback",
+        "type": "OTHER",
+        "salience": 0.22094783186912537,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "host",
+        "type": "PERSON",
+        "salience": 0.1960485577583313,
+        "sentiment": {
+          "magnitude": 1.7000000476837158,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "area",
+        "type": "LOCATION",
+        "salience": 0.04294993728399277,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "hosts",
+        "type": "OTHER",
+        "salience": 0.6267862915992737,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "location",
+        "type": "LOCATION",
+        "salience": 0.14541053771972656,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "park",
+        "type": "LOCATION",
+        "salience": 0.10125134140253067,
+        "sentiment": {
+          "magnitude": 0.4000000059604645,
+          "score": 0.4000000059604645
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "Sean",
+        "type": "PERSON",
+        "salience": 0.45314040780067444,
+        "sentiment": {
+          "magnitude": 2.700000047683716,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "experience",
+        "type": "OTHER",
+        "salience": 0.21229471266269684,
+        "sentiment": {
+          "magnitude": 1.7999999523162842,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "city",
+        "type": "LOCATION",
+        "salience": 0.06117909401655197,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "home",
+        "type": "LOCATION",
+        "salience": 0.060451459139585495,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "part",
+        "type": "OTHER",
+        "salience": 0.060451459139585495,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "activities",
+        "type": "OTHER",
+        "salience": 0.056258976459503174,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Airbnb",
+        "type": "OTHER",
+        "salience": 0.0531502291560173,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "family",
+        "type": "PERSON",
+        "salience": 0.023498831316828728,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "Karla",
+        "type": "PERSON",
+        "salience": 0.38133740425109863,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "hosts",
+        "type": "PERSON",
+        "salience": 0.25828203558921814,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Sean",
+        "type": "PERSON",
+        "salience": 0.18498146533966064,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "home",
+        "type": "LOCATION",
+        "salience": 0.08363252878189087,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "world",
+        "type": "LOCATION",
+        "salience": 0.06352805346250534,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "conference",
+        "type": "EVENT",
+        "salience": 0.405609667301178,
+        "sentiment": {
+          "magnitude": 0.30000001192092896,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "friends",
+        "type": "PERSON",
+        "salience": 0.20595182478427887,
+        "sentiment": {
+          "magnitude": 0.30000001192092896,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "cats",
+        "type": "OTHER",
+        "salience": 0.09977251291275024,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "apartment",
+        "type": "LOCATION",
+        "salience": 0.047005001455545425,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "everything",
+        "type": "OTHER",
+        "salience": 0.039162177592515945,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "hospital",
+        "type": "LOCATION",
+        "salience": 0.024416590109467506,
+        "sentiment": {
+          "magnitude": 0.4000000059604645,
+          "score": 0.4000000059604645
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "places",
+        "type": "LOCATION",
+        "salience": 0.020906254649162292,
+        "sentiment": {
+          "magnitude": 0.4000000059604645,
+          "score": 0.4000000059604645
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.014619434252381325,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Lyft",
+        "type": "OTHER",
+        "salience": 0.011010649614036083,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "bars",
+        "type": "OTHER",
+        "salience": 0.00809493102133274,
+        "sentiment": {
+          "magnitude": 0.4000000059604645,
+          "score": 0.4000000059604645
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "shops",
+        "type": "LOCATION",
+        "salience": 0.00809493102133274,
+        "sentiment": {
+          "magnitude": 0.30000001192092896,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.007414595223963261,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 2,
+        "name": "Sean",
+        "type": "PERSON",
+        "salience": 0.48440390825271606,
+        "sentiment": {
+          "magnitude": 2.4000000953674316,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "place",
+        "type": "LOCATION",
+        "salience": 0.17541517317295074,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "park",
+        "type": "LOCATION",
+        "salience": 0.08485714346170425,
+        "sentiment": {
+          "magnitude": 1.7000000476837158,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "house",
+        "type": "LOCATION",
+        "salience": 0.0407647080719471,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "hosts",
+        "type": "PERSON",
+        "salience": 0.02685420587658882,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "waterfront",
+        "type": "LOCATION",
+        "salience": 0.02331797033548355,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "wife",
+        "type": "PERSON",
+        "salience": 0.02320302091538906,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "forest",
+        "type": "LOCATION",
+        "salience": 0.023035485297441483,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "people",
+        "type": "PERSON",
+        "salience": 0.021304678171873093,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "city",
+        "type": "LOCATION",
+        "salience": 0.01603033021092415,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "airbnb",
+        "type": "ORGANIZATION",
+        "salience": 0.3682144582271576,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "vacation",
+        "type": "EVENT",
+        "salience": 0.13330863416194916,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Europe",
+        "type": "LOCATION",
+        "salience": 0.07951150089502335,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "house",
+        "type": "LOCATION",
+        "salience": 0.07306614518165588,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "home",
+        "type": "LOCATION",
+        "salience": 0.04589063674211502,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "room",
+        "type": "LOCATION",
+        "salience": 0.04410137981176376,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "location",
+        "type": "LOCATION",
+        "salience": 0.0437820665538311,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "family",
+        "type": "PERSON",
+        "salience": 0.029624154791235924,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Karla",
+        "type": "PERSON",
+        "salience": 0.0258156917989254,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "seattle",
+        "type": "LOCATION",
+        "salience": 0.016254466027021408,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.014578585512936115,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "stay",
+        "type": "EVENT",
+        "salience": 0.011797518469393253,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.5373538136482239,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "area",
+        "type": "LOCATION",
+        "salience": 0.24363090097904205,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.047990333288908005,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "pictures",
+        "type": "WORK_OF_ART",
+        "salience": 0.16518402099609375,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "friends",
+        "type": "PERSON",
+        "salience": 0.16518402099609375,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "experience",
+        "type": "OTHER",
+        "salience": 0.12777969241142273,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 3,
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.07101494073867798,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "design",
+        "type": "OTHER",
+        "salience": 0.06442325562238693,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "thing",
+        "type": "OTHER",
+        "salience": 0.02251388691365719,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "interview",
+        "type": "EVENT",
+        "salience": 0.021611005067825317,
+        "sentiment": {
+          "magnitude": 0.30000001192092896,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "kitchen",
+        "type": "LOCATION",
+        "salience": 0.016560902819037437,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "everything",
+        "type": "OTHER",
+        "salience": 0.014647433534264565,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "touches",
+        "type": "OTHER",
+        "salience": 0.013415329158306122,
+        "sentiment": {
+          "magnitude": 0.4000000059604645,
+          "score": 0.4000000059604645
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "basket",
+        "type": "OTHER",
+        "salience": 0.013415329158306122,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "clementine",
+        "type": "OTHER",
+        "salience": 0.013415329158306122,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.012789417058229446,
+        "sentiment": {
+          "magnitude": 0.4000000059604645,
+          "score": 0.4000000059604645
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "lots",
+        "type": "PERSON",
+        "salience": 0.011934934183955193,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "head",
+        "type": "OTHER",
+        "salience": 0.010081328451633453,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "sleep",
+        "type": "OTHER",
+        "salience": 0.009115840308368206,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "AppleTV",
+        "type": "CONSUMER_GOOD",
+        "salience": 0.00857653096318245,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "people",
+        "type": "PERSON",
+        "salience": 0.00823457632213831,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "stay",
+        "type": "EVENT",
+        "salience": 0.007025671657174826,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "stars",
+        "type": "OTHER",
+        "salience": 0.005365054123103619,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "reviews",
+        "type": "WORK_OF_ART",
+        "salience": 0.004421849735081196,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.002613004995509982,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 2,
+        "name": "Sean",
+        "type": "PERSON",
+        "salience": 0.5199224948883057,
+        "sentiment": {
+          "magnitude": 1.600000023841858,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "directions",
+        "type": "OTHER",
+        "salience": 0.20593829452991486,
+        "sentiment": {
+          "magnitude": 1.600000023841858,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "room",
+        "type": "LOCATION",
+        "salience": 0.035898711532354355,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "anywhere",
+        "type": "LOCATION",
+        "salience": 0.022101106122136116,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "park",
+        "type": "LOCATION",
+        "salience": 0.0155184892937541,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "trip",
+        "type": "EVENT",
+        "salience": 0.009748515672981739,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.005771077703684568,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 2,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.8042823076248169,
+        "sentiment": {
+          "magnitude": 2.0999999046325684,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "location",
+        "type": "LOCATION",
+        "salience": 0.10465735197067261,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "wedding",
+        "type": "EVENT",
+        "salience": 0.03659775108098984,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "help",
+        "type": "OTHER",
+        "salience": 0.02131505124270916,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "space",
+        "type": "LOCATION",
+        "salience": 0.019523123279213905,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.013624388724565506,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "anyone",
+        "type": "PERSON",
+        "salience": 0.22791926562786102,
+        "sentiment": {
+          "magnitude": 1,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.12417292594909668,
+        "sentiment": {
+          "magnitude": 1.2000000476837158,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.12315606325864792,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "hosts",
+        "type": "PERSON",
+        "salience": 0.12278579920530319,
+        "sentiment": {
+          "magnitude": 1.7999999523162842,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 3,
+        "name": "Carla",
+        "type": "PERSON",
+        "salience": 0.11214926838874817,
+        "sentiment": {
+          "magnitude": 1.899999976158142,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "nature",
+        "type": "OTHER",
+        "salience": 0.05399345979094505,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 3,
+        "name": "Sean",
+        "type": "PERSON",
+        "salience": 0.050868671387434006,
+        "sentiment": {
+          "magnitude": 2,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "everything",
+        "type": "OTHER",
+        "salience": 0.017897842451930046,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "home",
+        "type": "LOCATION",
+        "salience": 0.017680102959275246,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "room",
+        "type": "LOCATION",
+        "salience": 0.013939650729298592,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "house",
+        "type": "LOCATION",
+        "salience": 0.006512106396257877,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "airport",
+        "type": "LOCATION",
+        "salience": 0.0054426537826657295,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.3652458190917969,
+        "sentiment": {
+          "magnitude": 1.399999976158142,
+          "score": 0.4000000059604645
+        }
+      },
+      {
+        "mentions": 2,
+        "name": "home",
+        "type": "LOCATION",
+        "salience": 0.11224482208490372,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "effort",
+        "type": "OTHER",
+        "salience": 0.09933933615684509,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "suite",
+        "type": "OTHER",
+        "salience": 0.09933933615684509,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "taste",
+        "type": "OTHER",
+        "salience": 0.046074029058218,
+        "sentiment": {
+          "magnitude": 1.2000000476837158,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "University",
+        "type": "ORGANIZATION",
+        "salience": 0.03181901201605797,
+        "sentiment": {
+          "magnitude": 1,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "cookies",
+        "type": "OTHER",
+        "salience": 0.01885799691081047,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "pictures",
+        "type": "WORK_OF_ART",
+        "salience": 0.012695664539933205,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "bedroom",
+        "type": "LOCATION",
+        "salience": 0.011723672971129417,
+        "sentiment": {
+          "magnitude": 0.30000001192092896,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.011188113130629063,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "connection",
+        "type": "OTHER",
+        "salience": 0.006086955778300762,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "bathroom",
+        "type": "LOCATION",
+        "salience": 0.003886113641783595,
+        "sentiment": {
+          "magnitude": 0.30000001192092896,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "parking",
+        "type": "OTHER",
+        "salience": 0.0038700751028954983,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "home",
+        "type": "LOCATION",
+        "salience": 0.6907488107681274,
+        "sentiment": {
+          "magnitude": 1.899999976158142,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "trees",
+        "type": "OTHER",
+        "salience": 0.06900136172771454,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "trail",
+        "type": "LOCATION",
+        "salience": 0.06900136172771454,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "park",
+        "type": "LOCATION",
+        "salience": 0.06819495558738708,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "beach",
+        "type": "LOCATION",
+        "salience": 0.06354202330112457,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "stay",
+        "type": "EVENT",
+        "salience": 0.023016758263111115,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Thanks",
+        "type": "OTHER",
+        "salience": 0.01649469882249832,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "Sean",
+        "type": "PERSON",
+        "salience": 0.46605563163757324,
+        "sentiment": {
+          "magnitude": 1.600000023841858,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "family",
+        "type": "PERSON",
+        "salience": 0.3677542209625244,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "stay",
+        "type": "OTHER",
+        "salience": 0.029109584167599678,
+        "sentiment": {
+          "magnitude": 0.6000000238418579,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "guests",
+        "type": "PERSON",
+        "salience": 0.026737790554761887,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "Sean",
+        "type": "PERSON",
+        "salience": 0.5867964029312134,
+        "sentiment": {
+          "magnitude": 1.7999999523162842,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "home",
+        "type": "LOCATION",
+        "salience": 0.15236027538776398,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "family",
+        "type": "PERSON",
+        "salience": 0.15057967603206635,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Everything",
+        "type": "OTHER",
+        "salience": 0.08438382297754288,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "stay",
+        "type": "EVENT",
+        "salience": 0.025879792869091034,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 2,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.4937775433063507,
+        "sentiment": {
+          "magnitude": 2.5999999046325684,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Words",
+        "type": "OTHER",
+        "salience": 0.1517501175403595,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "home",
+        "type": "LOCATION",
+        "salience": 0.04968913644552231,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "sanctuary",
+        "type": "LOCATION",
+        "salience": 0.049392297863960266,
+        "sentiment": {
+          "magnitude": 1.600000023841858,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "wonder",
+        "type": "OTHER",
+        "salience": 0.01864219456911087,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "things",
+        "type": "OTHER",
+        "salience": 0.016595710068941116,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "mystery",
+        "type": "OTHER",
+        "salience": 0.016595710068941116,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "stillness",
+        "type": "OTHER",
+        "salience": 0.016595710068941116,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "quietude",
+        "type": "OTHER",
+        "salience": 0.016595710068941116,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "beauty",
+        "type": "OTHER",
+        "salience": 0.016394561156630516,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "friend",
+        "type": "PERSON",
+        "salience": 0.007997293025255203,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "story",
+        "type": "OTHER",
+        "salience": 0.005034764762967825,
+        "sentiment": {
+          "magnitude": 0.10000000149011612,
+          "score": 0.10000000149011612
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "tine",
+        "type": "OTHER",
+        "salience": 0.5418829321861267,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.2102656364440918,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "everything",
+        "type": "OTHER",
+        "salience": 0.13119421899318695,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.11665719747543335,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 2,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.4474778175354004,
+        "sentiment": {
+          "magnitude": 2.700000047683716,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 3,
+        "name": "loft",
+        "type": "OTHER",
+        "salience": 0.23548227548599243,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "essentials",
+        "type": "OTHER",
+        "salience": 0.0682201087474823,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "quality",
+        "type": "OTHER",
+        "salience": 0.030993089079856873,
+        "sentiment": {
+          "magnitude": 1.600000023841858,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "restaurant",
+        "type": "LOCATION",
+        "salience": 0.02278488129377365,
+        "sentiment": {
+          "magnitude": 0.30000001192092896,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "bike path",
+        "type": "LOCATION",
+        "salience": 0.022508716210722923,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "market",
+        "type": "LOCATION",
+        "salience": 0.022508716210722923,
+        "sentiment": {
+          "magnitude": 0.30000001192092896,
+          "score": 0.30000001192092896
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "pride",
+        "type": "OTHER",
+        "salience": 0.02074374072253704,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "others",
+        "type": "PERSON",
+        "salience": 0.015618664212524891,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "French",
+        "type": "LOCATION",
+        "salience": 0.013350486755371094,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "host",
+        "type": "OTHER",
+        "salience": 0.012459798716008663,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "location",
+        "type": "LOCATION",
+        "salience": 0.010949795134365559,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "property",
+        "type": "OTHER",
+        "salience": 0.0068880426697432995,
+        "sentiment": {
+          "magnitude": 0.4000000059604645,
+          "score": 0.4000000059604645
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.4724193811416626,
+        "sentiment": {
+          "magnitude": 1.7000000476837158,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "essentials",
+        "type": "OTHER",
+        "salience": 0.10527510195970535,
+        "sentiment": {
+          "magnitude": 1.600000023841858,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.0396382212638855,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "kitchen",
+        "type": "LOCATION",
+        "salience": 0.02799961529672146,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "breakfast",
+        "type": "OTHER",
+        "salience": 0.02799961529672146,
+        "sentiment": {
+          "magnitude": 0.699999988079071,
+          "score": 0.699999988079071
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Uber",
+        "type": "ORGANIZATION",
+        "salience": 0.011552134528756142,
+        "sentiment": {
+          "magnitude": 0,
+          "score": 0
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 1,
+        "name": "Jennifer",
+        "type": "PERSON",
+        "salience": 0.48229941725730896,
+        "sentiment": {
+          "magnitude": 1.600000023841858,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "touch",
+        "type": "OTHER",
+        "salience": 0.21129301190376282,
+        "sentiment": {
+          "magnitude": 1.2999999523162842,
+          "score": 0.6000000238418579
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.1400933861732483,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "everywhere",
+        "type": "LOCATION",
+        "salience": 0.1084555983543396,
+        "sentiment": {
+          "magnitude": 0.5,
+          "score": 0.5
+        }
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "mentions": 2,
+        "name": "home",
+        "type": "LOCATION",
+        "salience": 0.1826532930135727,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "area",
+        "type": "LOCATION",
+        "salience": 0.16190214455127716,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "City",
+        "type": "LOCATION",
+        "salience": 0.16190214455127716,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "block",
+        "type": "OTHER",
+        "salience": 0.06384755671024323,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "hosts",
+        "type": "PERSON",
+        "salience": 0.05043845251202583,
+        "sentiment": {
+          "magnitude": 1.7000000476837158,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Bus stop",
+        "type": "LOCATION",
+        "salience": 0.03723425045609474,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "bathroom",
+        "type": "LOCATION",
+        "salience": 0.028103332966566086,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "bedroom",
+        "type": "LOCATION",
+        "salience": 0.02510700933635235,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "sinks",
+        "type": "OTHER",
+        "salience": 0.021090667694807053,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "lots",
+        "type": "OTHER",
+        "salience": 0.021090667694807053,
+        "sentiment": {
+          "magnitude": 0.800000011920929,
+          "score": 0.800000011920929
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Seattle",
+        "type": "LOCATION",
+        "salience": 0.0124561982229352,
+        "sentiment": {
+          "magnitude": 0.20000000298023224,
+          "score": 0.20000000298023224
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Karla",
+        "type": "PERSON",
+        "salience": 0.0037801230791956186,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      },
+      {
+        "mentions": 1,
+        "name": "Sean",
+        "type": "PERSON",
+        "salience": 0.0016780538717284799,
+        "sentiment": {
+          "magnitude": 0.8999999761581421,
+          "score": 0.8999999761581421
+        }
+      }
+    ]
+  }
+]
