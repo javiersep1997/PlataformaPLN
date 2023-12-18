@@ -1,2 +1,5 @@
-# agoritmos_memoria
-conjunto de algoritmos ocupados en la memoria
+# Plataforma NLP-API
+
+## Modulo principal
+
+- [NLP-API]

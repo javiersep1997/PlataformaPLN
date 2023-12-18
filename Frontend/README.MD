@@ -1,10 +1,3 @@
-# sourvey-app
-
-- React platform : vite
-- UI framework :chackra ui
-- backend: strapi
-- auth provider: strapi
-
 <div align="center" style="margin: 30px;">
     <a href="https://refine.dev">
     <img src="https://refine.ams3.cdn.digitaloceanspaces.com/refine_logo.png"  align="center" />
