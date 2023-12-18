@@ -1,0 +1,163 @@
+{
+  "pages": {
+    "login": {
+      "title": "Ingresa a tu cuenta",
+      "signin": "Ingresar",
+      "signup": "Registrarse",
+      "divider": "o",
+      "fields": {
+        "email": "Correo electrónico",
+        "password": "Contraseña"
+      },
+      "errors": {
+        "validEmail": "Correo electrónico inválido"
+      },
+      "buttons": {
+        "submit": "Ingresar",
+        "forgotPassword": "¿Olvidaste tu contraseña?",
+        "noAccount": "¿No tienes una cuenta?",
+        "rememberMe": "Recuérdame"
+      }
+    },
+    "forgotPassword": {
+      "title": "Olvidaste tu contraseña",
+      "fields": {
+        "email": "Correo electrónico"
+      },
+      "errors": {
+        "validEmail": "Correo electrónico inválido"
+      },
+      "buttons": {
+        "submit": "Enviar instrucciones de recuperación"
+      }
+    },
+    "register": {
+      "title": "Registarse",
+      "fields": {
+        "email": "Correo electrónico",
+        "password": "Contraseña"
+      },
+      "errors": {
+        "validEmail": "Correo electrónico inválido"
+      },
+      "buttons": {
+        "submit": "Registrarse",
+        "haveAccount": "Tienes una cuenta ?"
+      }
+    },
+    "updatePassword": {
+      "title": "Actualizar contraseña",
+      "fields": {
+        "password": "Nueva contraseña",
+        "confirmPassword": "Confirmar contraseña"
+      },
+      "errors": {
+        "confirmPasswordNotMatch": "Contraseñas no coinciden"
+      },
+      "buttons": {
+        "submit": "Actualizar contraseña"
+      }
+    },
+    "error": {
+      "info": "You may have forgotten to add the {{action}} component to {{resource}} resource.",
+      "404": "Lo siento pero la página que buscas no existe.",
+      "resource404": "Are you sure you have created the {{resource}} resource.",
+      "backHome": "Vuelta a inicio"
+    }
+  },
+  "actions": {
+    "list": "Listar",
+    "create": "Crear",
+    "edit": "Editar",
+    "show": "Mostrar"
+  },
+  "buttons": {
+    "create": "Crear",
+    "save": "Guardar",
+    "logout": "Cerrar sesión",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "cancel": "Cancelar",
+    "confirm": "¿Estas seguro?",
+    "filter": "Filtrar",
+    "clear": "Limpiar",
+    "refresh": "Actualizar",
+    "show": "Mostrar",
+    "undo": "Deshacer",
+    "import": "Importar",
+    "clone": "Clonar",
+    "notAccessTitle": "No tienes acceso"
+  },
+  "warnWhenUnsavedChanges": "Tienes cambios sin guardar. ¿Estás seguro de que quieres salir?",
+  "notifications": {
+    "success": "Exito",
+    "error": "Error (status code: {{statusCode}})",
+    "undoable": "Tienes  {{seconds}} segundos para deshacer",
+    "createSuccess": "Se ha creado exitosamente {{resource}}",
+    "createError": "Hubo un error al crear {{resource}} (status code: {{statusCode}})",
+    "deleteSuccess": "Exito al eliminar {{resource}}",
+    "deleteError": "Error al eliminar{{resource}} (status code: {{statusCode}})",
+    "editSuccess": "Editado exitosamente {{resource}}",
+    "editError": "Error al editar {{resource}} (status code: {{statusCode}})",
+    "importProgress": "Importando: {{processed}}/{{total}}"
+  },
+  "loading": "Cargando...",
+  "tags": {
+    "clone": "Clonar"
+  },
+  "dashboard": {
+    "title": "Panel de control"
+  },
+  "blog-posts": {
+    "blog-posts": "Blog Posts",
+    "fields": {
+      "id": "Id",
+      "title": "Titulo",
+      "content": "Content",
+      "status": "Estado",
+      "createdAt": "Created At",
+      "category": "Category"
+    },
+    "titles": {
+      "create": "Crear Publicación de Blog",
+      "edit": "Edit Blog Post",
+      "list": "Blog Posts",
+      "show": "Show Blog Post"
+    }
+  },
+
+  "categories": {
+    "categories": "Categories",
+    "fields": {
+      "id": "Id",
+      "title": "Titulo",
+      "createdAt": "Creado en"
+    },
+    "titles": {
+      "create": "Crear Categoria",
+      "edit": "Editar Categoria",
+      "list": "Categorias",
+      "show": "Mostrar Categoria"
+    }
+  },
+  "surveys": {
+    "surveys": "Surveys",
+    "fields": {
+      "id": "Id",
+      "sTitle": "Nombre de encuesta",
+      "qTitle": "Pregunta",
+      "description": "Descripción",
+      "createdAt": "Creado en"
+    },
+    "titles": {
+      "create": "Crear Encuesta",
+      "edit": "Editar Encuesta",
+      "list": "Encuestas",
+      "show": "Mostrar Encuestas"
+    }
+  },
+
+  "table": {
+    "actions": "Aciones"
+  }
+}

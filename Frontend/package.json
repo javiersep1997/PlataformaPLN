@@ -1,0 +1,83 @@
+{
+  "name": "sourvey-app",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@chakra-ui/react": "^2.5.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@refinedev/chakra-ui": "^2.5.4",
+    "@refinedev/cli": "^2.5.1",
+    "@refinedev/core": "^4.5.8",
+    "@refinedev/inferencer": "^3.5.4",
+    "@refinedev/kbar": "^1.1.0",
+    "@refinedev/react-hook-form": "^4.1.2",
+    "@refinedev/react-router-v6": "^4.1.0",
+    "@refinedev/react-table": "^5.1.4",
+    "@refinedev/strapi-v4": "^4.0.0",
+    "@tabler/icons": "^1.1.0",
+    "apexcharts": "^3.41.0",
+    "axios": "^1.4.0",
+    "chart.js": "^4.3.0",
+    "chartjs-chart-wordcloud": "^4.2.3",
+    "i18next": "^20.1.0",
+    "i18next-browser-languagedetector": "^6.1.1",
+    "i18next-xhr-backend": "^3.2.2",
+    "install": "^0.13.0",
+    "react": "^18.0.0",
+    "react-apexcharts": "^1.4.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.0.0",
+    "react-hook-form": "^7.30.0",
+    "react-i18next": "^11.8.11",
+    "react-icons": "^4.10.1",
+    "react-query": "^3.39.3",
+    "react-router-dom": "^6.8.1",
+    "zustand": "^4.3.9"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.2",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/parser": "^5.57.1",
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.42.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-config-standard-with-typescript": "^35.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.3.4",
+    "prettier": "^2.8.8",
+    "prettier-plugin-tailwindcss": "^0.2.8",
+    "tailwindcss": "^3.3.2",
+    "typescript": "^4.7.4",
+    "vite": "^4.3.1"
+  },
+  "scripts": {
+    "dev": "refine dev",
+    "build": "tsc && refine build",
+    "preview": "refine start",
+    "refine": "refine",
+    "prettier": "eslint src --ext ts,tsx,js,jsx --report-unused-disable-directives --max-warnings 0 --fix && prettier --write \"src/**/*.{js,jsx,ts,tsx}\""
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
